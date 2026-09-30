@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-09-30",
+  "started_at": "2026-09-30T23:20:35",
+  "finished_at": "2026-09-30T23:22:43",
+  "summary": {
+    "total": 2,
+    "sent_successfully": 0,
+    "pending": 0,
+    "not_found": 0,
+    "failed": 2
+  },
+  "results": [
+    {
+      "index": 1,
+      "name": "Tharani",
+      "phone": "+919894876061",
+      "message": "Hello how are you this is BOT generated message",
+      "status": "Failed",
+      "found_by": "name",
+      "sent_at": "",
+      "screenshot": "",
+      "last_messages": [],
+      "error": "Timeout: Page.wait_for_function: Timeout 30000ms exceeded."
+    },
+    {
+      "index": 2,
+      "name": "Thanvia Zurich",
+      "phone": "+41772873080",
+      "message": "Hello how are you this is BOT generated message",
+      "status": "Failed",
+      "found_by": "name",
+      "sent_at": "",
+      "screenshot": "",
+      "last_messages": [],
+      "error": "Timeout: Page.wait_for_function: Timeout 30000ms exceeded."
+    }
+  ]
+}
